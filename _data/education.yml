@@ -1,6 +1,17 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.Tech in Mechanical and Automation Engineering
+  uni: NORTHERN INDIA ENGINEERING COLLEGE, New Delhi
+  year: 2011 &mdash; 2015
+
+  project01: Worked in college GO-Kart team ’ZAKATIKA’
+  summary01: Was part of  suspension and braking department and prepared suspension report for the team.
+
+
+  project02: One month Summer Training with Airport Authority of India in June 2014.
+  summary02: Learned about different parts of four stroke IC engine used in cars. Euro and Bharat Standard norms for emission control and Multi Point Fuel Injection (MPFI).
+
+  project03: “BULLET  IMPACT  ANALYSIS  ON  COMPOSITES”- Minor Project (7th  Semester)
+  summary03: Compared the properties of composites Kevlar(29,49,149) to the conventional metal by using ANSYS(explicit dynamic module) simulation. 
+
+  project04: “POWER GENERATING HYBRID VEHICLE”- Major project(8th Semester)
+  summary04: made a hybrid vehicle prototype which generate power from four different kind of energy source i.e. solar ,wind, shock or vibration and sound/noise.
