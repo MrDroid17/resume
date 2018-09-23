@@ -1,12 +1,16 @@
 # Skills
-# Donut design
+# Web Development
+- skill: Web App(Backened and Frontend)
+  description:  JavaScript, NodeJS, MongoDb, Angular 6
+
+# Android App design
 - skill: Android
   description:  Android (SQLite, Firebase, Networking), Android Canvas, Google Maps Api, Location Services, AdMob, JSON, Java(Core)
 
-# Craft beer brewing
+# Utilities
 - skill: Git and Github
   description: Version Control(Git) & Github, Github Pages, Markdown
 
-# Family leadership
+# other skills
 - skill: Other Skills
   description: CSS, HTML, Comfortable with linux command line, Operating System – Windows and Linux( Ubuntu) 
